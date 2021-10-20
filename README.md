@@ -12,7 +12,7 @@
 
 ---
 
-USAGE
+#USAGE
 1. https://kogasbigstar.kr/ 에서 참가 신청을 합니다.  
 2. https://aihub.or.kr/aidata/8054 다운로드 탭에서 로그인 후 데이터를 다운받습니다.  
 3. 다운받은 데이터를 data 폴더 하위에 위치시킵니다.  
